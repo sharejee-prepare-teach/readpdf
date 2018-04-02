@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring-MVC-Excel-Pdf-View-Example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="excel-pdf-view-example.war">
+      <element id="artifact" artifact-name="Spring-MVC-Excel-Pdf-View-Example:war exploded" />
+    </root>
+  </artifact>
+</component>
